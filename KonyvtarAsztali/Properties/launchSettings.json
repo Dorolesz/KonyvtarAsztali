@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "KonyvtarAsztali": {
+      "commandName": "Project",
+      "commandLineArgs": "--stat",
+
+    },
+    "WPF GUI": {
+      "commandName": "Project"
+    }
+  }
+}
